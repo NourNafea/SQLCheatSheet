@@ -2,7 +2,6 @@
 ## SELECT Clause 
 ### —- Using expressions
 `SELECT (points * 10 + 20) AS discount_factor`
-
 `FROM customers`
 
 Order of operations: 
@@ -11,5 +10,4 @@ Order of operations:
 - Addition / subtraction 
 ### —- Removing duplicates
 `SELECT DISTINCT state`
-
 `FROM customers`
