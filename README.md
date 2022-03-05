@@ -9,3 +9,5 @@ Order of operations:
 - Multiplication / division
 - Addition / subtraction 
 ### —- Removing duplicates
+`SELECT DISTINCT state`
+`FROM customers`
