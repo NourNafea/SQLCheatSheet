@@ -11,4 +11,5 @@ Order of operations:
 - Addition / subtraction 
 ### —- Removing duplicates
 `SELECT DISTINCT state`
+
 `FROM customers`
