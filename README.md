@@ -8,3 +8,4 @@ Order of operations:
 - Parenthesis
 - Multiplication / division
 - Addition / subtraction 
+### —- Removing duplicates
