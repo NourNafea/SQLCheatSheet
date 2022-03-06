@@ -11,3 +11,5 @@ Order of operations:
 ### —- Removing duplicates
 `SELECT DISTINCT state`
 `FROM customers`
+
+## WHERE Clause 
