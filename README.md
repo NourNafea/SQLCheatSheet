@@ -15,10 +15,10 @@ Order of operations:
 ## WHERE Clause 
 ### We use the WHERE clause to filter data.
 #### Comparison operators:
-- Greaterthan:>
-- Greaterthanorequalto:>= 
-- Lessthan:<
-- Lessthanorequalto:<=
-- Equal:=
-- Notequal:<>
-- Notequal:!=
+- Greaterthan:`>`
+- Greaterthanorequalto:`>=` 
+- Lessthan:`<`
+- Lessthanorequalto:`<=`
+- Equal:`=`
+- Notequal:`<>`
+- Notequal:`!=`
